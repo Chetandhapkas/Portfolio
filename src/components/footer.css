@@ -1,0 +1,15 @@
+/* Footer container */
+.footer {
+  width: 100%;
+  background-color: #0f172a;
+  color: white;
+  text-align: center;
+  padding: 20px 0;
+  margin-top: 50px;
+}
+
+/* Footer text */
+.footer p {
+  font-size: 14px;
+  letter-spacing: 0.5px;
+}
